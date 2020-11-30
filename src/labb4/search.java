@@ -26,7 +26,7 @@ public class search {
 			}
 
 		} catch (FileNotFoundException e) {
-			System.out.println("File not found!");
+			System.out.println("File not found, please run the program again!");
 			return;
 		}
 
